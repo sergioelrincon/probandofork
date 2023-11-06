@@ -1,5 +1,5 @@
 <?php
 
-  echo '':
+  echo 'Esto elimina el código';
 
 ?>
